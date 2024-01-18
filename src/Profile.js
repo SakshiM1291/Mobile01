@@ -7,6 +7,7 @@ import { Avatar } from 'react-native-paper';
 import { Settings, Logout } from '@assets/images/common/svg'; // Replace with actual icons
 import appColors from '@theme/appColors';
 import { t } from 'i18next';
+import styles from './styles'
 import { useValues } from '@App';
 import styles from './styles'; // Import your existing styles
 
