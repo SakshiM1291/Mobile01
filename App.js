@@ -3,7 +3,7 @@
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createDrawerNavigator } from '@react-navigation/drawer';
-import { Profile } from 'C:\Users\Shreyash\EmployeeProfile\Profile.js'; // Import your Profile component
+import { Profile } from 'src\Profile.js'; // Import your Profile component
 import appColors from 'C:\Users\Shreyash\EmployeeProfile\theme\appColors.js';
 import { AppProvider } from '@App';
 

@@ -63,10 +63,10 @@ const Profile = (props) => {
       icon: <Avatar.Image size={24} source={{ uri: 'https://placekitten.com/24/24' }} />,
     },
     { title: 'Date of Birth', showArrow: true, route: 'DOB' },
-    { title: 'Employee No.', showArrow: true, route: 'EmployeeNo' },
+    { title: 'Employee Number', showArrow: true, route: 'EmployeeNo' },
     { title: 'Address', showArrow: true, route: 'Address' },
     { title: 'Email ID', showArrow: true, route: 'EmailID' },
-    { title: 'Phone No.', showArrow: true, route: 'PhoneNo' },
+    { title: 'Phone Number', showArrow: true, route: 'PhoneNo' },
     { title: 'Gender', showArrow: true, route: 'Gender' },
     {
       title: 'Settings',
